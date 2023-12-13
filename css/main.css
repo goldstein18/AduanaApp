@@ -43,6 +43,10 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ Form ]*/
 
+* {
+  font-family: 'Inter', sans-serif !important;
+}
+
 .contact100-form {
   width: 100%;
 }

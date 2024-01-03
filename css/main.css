@@ -449,6 +449,7 @@ input.input100 {
 }
 .wrap-pic1 img {
   max-width: 100%;
+  min-width:180px;
 }
 
 
